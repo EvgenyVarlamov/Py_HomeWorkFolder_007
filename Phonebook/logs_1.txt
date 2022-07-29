@@ -1,0 +1,10 @@
+Иванов; Иван; 1234567; рабочий
+
+Petrov; Petr; 0987654; home
+
+Sidorov; Sidor; 1029384; work
+
+Ivanoff; Petr; 0192837; common
+
+Sidorov-Petrov; Ivan; 7777777; VIP
+
